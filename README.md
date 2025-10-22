@@ -8,7 +8,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Studying in Computer Engineering at Kasetsart University.
 ---------------------------------------------------------
 
-Working Experience (Probation at Infinity Platform)
+Working Experience 
+(Probation at Infinity Platform)
 
 \- API (Create, Mockup on Strapi and Explain to the Project Manager)
 
